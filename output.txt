@@ -1,0 +1,9 @@
+
+Node,Depth,Value,Alpha,Beta
+root,0,Infinity,-2147483647,Infinity
+c4,1,-Infinity,-2147483647,Infinity
+pass,2,Infinity,-2147483647,Infinity
+pass,3,4,-2147483647,Infinity
+pass,2,Infinity,-2147483647,Infinity
+c4,1,-Infinity,-2147483647,Infinity
+root,0,Infinity,-2147483647,Infinity
